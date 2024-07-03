@@ -1,0 +1,5 @@
+/* Centrar el título */
+.fc-toolbar-title {
+    text-align: center;
+    width: 100%;
+}
